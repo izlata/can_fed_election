@@ -5,7 +5,7 @@ The 2019 Canadian federal election was held on October 21, 2019, to elect member
 
 The objective of this project is to process the validated results of the 2019 Federal Election using Apache Spark and explore the data.
 
-Data processing was done in a Databricks notebook (Scala)
+Data processing was done in a Databricks notebook (Scala).
 
 **Dataset** 
 
