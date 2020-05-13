@@ -10,5 +10,5 @@ https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93e
 
 **Dataset** 
 
-Latest results for all electoral districts (EventResults.txt, tab-delimited format):
+October 21, 2019 Canadian Federal Election: The latest results for all electoral districts (EventResults.txt, tab-delimited format):
 https://enr.elections.ca/DownloadResults.aspx
